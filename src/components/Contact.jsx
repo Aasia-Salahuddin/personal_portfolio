@@ -38,7 +38,7 @@ export default function Contact() {
           </p>
         </div>
 
-        {/* Contact Form */}
+        {/* Contact Form 
         <form className="space-y-6" onSubmit={(e) => e.preventDefault()}>
           <input
             type="text"
@@ -61,7 +61,7 @@ export default function Contact() {
           >
             📩 Send Message
           </button>
-        </form>
+        </form>*/}
       </div>
     </section>
   );
